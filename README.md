@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m Anahita
-- 🔒 I'm an IT Security Specialist
+- 🔒 I'm a Cyber Security Specialist
 - 📧 I can be reached at    
 
 <!---
