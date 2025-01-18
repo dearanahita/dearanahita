@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Anahita
-- 🔒 I'm a Cyber Security Specialist
-- 📧 I can be reached at    
+- 🔒 I'm a Space Cybersecurity Specialist
+- 📧 I can be reached at    XXX
 
 <!---
 dearanahita/dearanahita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
